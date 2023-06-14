@@ -1,0 +1,4 @@
+baseURL = 'https://zhanghan89.github.io/'
+languageCode = 'en-us'
+title = 'My New website'
+theme = 'ananke'
