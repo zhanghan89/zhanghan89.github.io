@@ -1,4 +1,4 @@
-baseURL = 'https://zhanghan89.github.io/'
+baseURL = 'https://zhanghan89.github.io/' #test
 languageCode = 'en-us'
 title = 'My New website'
 theme = 'ananke'
